@@ -6,7 +6,7 @@ Dann nichts wie los:
 
 1. Lade [AutohotKey](https://www.autohotkey.com/).
 2. Entpacke die AutohotKey-App und lege sie irgendwo in Deiner Benutzer-Domäne ab.
-  - Bist Du auf mehreren Rechner unterwegs, kannst Du den ganzen AutohotKey-Ordner sogar in Deinm OneDrive ablegen.
+    - Bist Du auf mehreren Rechner unterwegs, kannst Du den ganzen AutohotKey-Ordner sogar in Deinm OneDrive ablegen.
 2. Lade unser AutohotKey-Script runter und lege es in den AutohotKey-Ordner neben `AutoHotkeyU64.exe`.
 3. Starte `AutoHotkeyU64.exe`.
 
