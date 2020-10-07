@@ -1,4 +1,4 @@
-# macOS-Key-Bindings
+# macOS-Key-Bindings für Windows 10 & Co.
 
 Bist Du als Mac-Benutz\*er die Unterschiede der Windows- und Mac-Tatstaur-Layouts auch müde? Hast Du im Büro auch keinen Administratoren-Zugriff auf Deinen Rechner, um in RegEdit rumzuturnen?
 
