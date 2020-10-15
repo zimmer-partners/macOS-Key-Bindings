@@ -24,11 +24,6 @@ RWin::RAlt
 ;; Mimic macOS Text ModficationShortcuts
 <#Backspace::Send , ^{Backspace 1}
 
-;; Mimic macOS Window Switching
-;; LAlt & Tab::
-;; WinActivateBottom
-;; return
-
 ;; Optional: Remap Z and Y to match macOS US layout
 z::y
 y::z
