@@ -21,14 +21,17 @@ RWin::RAlt
 ^left::Send , {Home 1}
 ^right::Send , {End 1}
 
+;; Mimic macOS Text ModficationShortcuts
+<#Backspace::Send , ^{Backspace 1}
+
 ;; Mimic macOS Window Switching
 ;; LAlt & Tab::
 ;; WinActivateBottom
 ;; return
 
 ;; Optional: Remap Z and Y to match macOS US layout
-;; z::y
-;; y::z
+z::y
+y::z
 
 ;; Optional: Superscript/Footnote shortcuts
 :*:ssup1::¹
