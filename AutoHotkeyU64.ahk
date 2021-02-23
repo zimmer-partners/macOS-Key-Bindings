@@ -5,12 +5,12 @@
 +F5::reload
 ^F5::edit
 
-;; Remap right Windows keys to Mac locations
+;; Remap left Windows keys to Mac locations
 LControl::LWin
 LWin::LAlt
 LAlt::LControl
 
-;; Remap left Windows keys to Mac locations
+;; Remap right Windows keys to Mac locations
 RAlt::LControl & RAlt
 LControl & RAlt::RAlt
 RWin::RAlt
