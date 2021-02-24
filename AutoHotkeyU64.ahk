@@ -1,4 +1,4 @@
-﻿;; AutoHotkey file to map Windows keys to Mac locations
+;; AutoHotkey file to map Windows keys to Mac locations
 ;; http://zimmer.partners
 
 ;; AutoHotkey shortcuts
@@ -11,8 +11,9 @@ LWin::LAlt
 LAlt::LControl
 
 ;; Remap right Windows keys to Mac locations
-RAlt::LControl & RAlt
-LControl & RAlt::RAlt
+LControl & RAlt::RControl
+RWin::Send {LControl down}{RAlt down}
+RWin Up::Send {LControl Up}{RAlt up}
 RWin::RAlt
 
 ;; Mimic macOS Text Cursor Shortcuts
