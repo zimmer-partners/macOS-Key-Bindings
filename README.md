@@ -7,13 +7,13 @@ Dann nichts wie los:
 1. Lade [AutohotKey](https://www.autohotkey.com/).
 2. Entpacke die AutohotKey-App und lege sie irgendwo in Deiner Benutzer-Domäne ab.
     - Bist Du auf mehreren Rechner unterwegs, kannst Du den ganzen AutohotKey-Ordner sogar in Deinm OneDrive ablegen.
-2. [Lade unser AutohotKey-Script runter](https://github.com/zimmer-partners/macOS-Key-Bindings-for-Windows/raw/main/AutoHotkeyU64.ahk) und lege es in den AutohotKey-Ordner neben `AutoHotkeyU64.exe`.
-3. Starte `AutoHotkeyU64.exe`.
+2. [Lade unsere AutohotKey-Scripts runter](https://github.com/zimmer-partners/macOS-Key-Bindings-for-Windows) und lege sie in den Autostart-Ordner.
+3. Starte die Scripts durch Doppelklick.
 
 Viel Spass,  
 M. Zimmer
 
-P.S. Du kannst das Script selbstverständlich gerne Deinen Bedürfnissen anpassen, erwarte jedoch, dass Du Dich etwas mit dem Help-File von AutohotKey beschäftigen müsstest.
+P.S. Du kannst die Scripts selbstverständlich gerne Deinen Bedürfnissen anpassen, erwarte jedoch, dass Du Dich etwas mit dem Help-File von AutohotKey beschäftigen müsstest.
 
 # Lizenz
 
