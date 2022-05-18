@@ -3,6 +3,10 @@
 
 ;; Cheat Sheet: + = Shift, ^ = Ctrl, ! = Alt, # = Win
 
+;; AutoHotkey shortcuts
++F5::reload
+^F5::edit
+
 ;; Punctuation
 :*:--::–
 
@@ -13,10 +17,10 @@
 :*:ssup1::¹
 :*:ssup2::²
 :*:ssup3::³
-:*:ssup4::?
-:*:ssup5::?
-:*:ssup6::?
-:*:ssup7::?
-:*:ssup8::?
-:*:ssup9::?
-:*:ssup0::?
+:*:ssup4::⁴
+:*:ssup5::⁵
+:*:ssup6::⁶
+:*:ssup7::⁷
+:*:ssup8::⁸
+:*:ssup9::⁹
+:*:ssup0::⁰
