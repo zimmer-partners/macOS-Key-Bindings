@@ -4,6 +4,10 @@
 
 ;; Cheat Sheet: + = Shift, ^ = Ctrl, ! = Alt, # = Win
 
+;; AutoHotkey shortcuts
+;; +F5::reload
+;; ^F5::edit
+
 ;; Mimic macOS Text Cursor Movement Shortcuts
 !left::Send ^{Left}
 !right::Send ^{Right}
